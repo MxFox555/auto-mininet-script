@@ -160,5 +160,5 @@ class AutoMininet():
 # Entrypoint
 if __name__ == '__main__':	
 	am = AutoMininet()
-	am.set_file(input('gml file: '), bool(int(input('Add dummy hosts?(1, 0): '))))
+	am.set_file(input('gml file: '), bool(int(input('Add hosts?(1, 0): '))))
 	am.make_code()
