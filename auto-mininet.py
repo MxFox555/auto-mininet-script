@@ -6,7 +6,7 @@ from math import sin, cos, acos, radians
 # Requires package "BeautifulSoup" (pip install bs4)
 # Run code with command: python3 auto-mininet.py
 # Insert the .graphml file
-# Use 1 or 0 (Boolean vlaues) to tell the program is you want one host attached to each switch
+# Use 1 or 0 (Boolean vlaues) to tell the program if you want one host attached to each switch
 
 
 # Used to calculate delay betwween switches 
